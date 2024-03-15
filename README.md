@@ -9,6 +9,6 @@ _I shall do to humans what cars did to horses._
 
 ### My skills, loosely ranked, in beautiful bulletpoint.
 - Graphic design
-- Writing, Descriptive, Narrative, & Poetic
+- Writing, Descriptive & Narrative
 - Pixel Art
 - 3D Modeling (Blockbench, still figuring out Blender)
