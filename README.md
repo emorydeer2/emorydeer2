@@ -8,7 +8,7 @@ I hope to be a Robotic Engineer, designing & building machines to further automa
 _I shall do to humans what cars did to horses._
 
 ### My skills, loosely ranked, in beautiful bulletpoint.
+- Narrative & Descriptive Writing
 - Graphic design
-- Writing, Descriptive & Narrative
 - Pixel Art
 - 3D Modeling (Blockbench, still figuring out Blender)
