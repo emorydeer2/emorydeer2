@@ -14,4 +14,5 @@ _I shall do to humans what cars did to horses._
 - 3D Modeling (Blockbench, still figuring out Blender)
 
 Human replacement progress:                        I'll be here ⬇
+
 Macrophyisical ✔️ Microphysical ✔️ Computational ➗ Logistical ✖️ Creative ✖️ Philisophical ✖️
