@@ -15,4 +15,4 @@ _I shall do to humans what cars did to horses._
 
 Human replacement progress:
 
-Macrophyisical ✔️ Microphysical ✔️ Computational ➗ Logistical ✖️ Creative ✖️
+Macrophysical ✔️ Microphysical ✔️ Computational ➗ Logistical ✖️ Creative ✖️
