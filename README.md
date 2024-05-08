@@ -10,9 +10,12 @@ _I shall do to humans what cars did to horses._
 ### My skills, loosely ranked, in beautiful bulletpoint.
 - Narrative & Descriptive Writing
 - Graphic design
+- Code... kinda.
+- - JSON
+- - HTML
+- - RegEx
 - Pixel Art
-- 3D Modeling (Blockbench, still figuring out Blender)
-
+- 3D Modeling (Blockbench, still figuring out Blender) 
 Human replacement progress:
 
 Macrophysical ✔️ Microphysical ✔️ Computational ➗ Logistical ✖️ Creative ✖️
