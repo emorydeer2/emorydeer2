@@ -8,11 +8,8 @@ I hope to be a Robotic Engineer, designing & building machines to further automa
 _I shall do to humans what cars did to horses._
 
 ### My skills, loosely ranked, in beautiful bulletpoint.
-- Narrative & Descriptive Writing
+- Programming
+- - Java, JavaScript, Lua, CSS, HTML 
 - Graphic design
-- Code... kinda.
-- - JSON
-- - HTML
-- - RegEx
+- 3D Modeling (Onshape, Blockbench & Roblox Studio, still figuring out Blender)
 - Pixel Art
-- 3D Modeling (Blockbench & Roblox Studio, still figuring out Blender)
