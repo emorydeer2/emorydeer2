@@ -9,7 +9,7 @@ _I shall do to humans what cars did to horses._
 
 ### My skills, loosely ranked, in beautiful bulletpoint.
 - Programming
-- - Java, JavaScript, Lua, CSS, HTML 
+- - Java, JavaScript, Lua
 - Graphic design
 - 3D Modeling (Onshape, Blockbench & Roblox Studio, still figuring out Blender)
 - Pixel Art
