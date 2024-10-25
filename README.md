@@ -6,7 +6,8 @@
 </div>
 Particularly, increasing its emergent properties, with holistic analysis & strategic implementation.
 
-_This_ mostly serves as a way for me to learn, understand, & apply various skillsets for the future.
+
+This mostly serves as a way for me to learn, understand, & apply various skillsets for the future.
 I hope to be a Robotic Engineer, designing & building machines to further automate manufactory. 
 
 _I shall create for humans what cars were for horses._
