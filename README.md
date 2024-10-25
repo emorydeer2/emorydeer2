@@ -1,15 +1,19 @@
-<h1 align="center"> Hello, I am "Emory"
+<div align=center>
 
-## A multi-dimensional creator specializing in the Retro-Styled Sandbox game: Minecraft.
+![Ed2-32-compressed](https://github.com/user-attachments/assets/7cdfe76f-906f-446b-8710-3112197ef70d)
+# Hello, I am "Emory"
+*A multi-dimensional creator currently focusing on Minecraft.*
+</div>
+Particularly, increasing its emergent properties, with holistic analysis & strategic implementation.
 
-_This_ mostly serves as a way for me to learn & apply various skillsets for my future.
+_This_ mostly serves as a way for me to learn, understand, & apply various skillsets for the future.
 I hope to be a Robotic Engineer, designing & building machines to further automate manufactory. 
 
-_I shall do to humans what cars did to horses._
+_I shall create for humans what cars were for horses._
 
-### My skills, loosely ranked, in beautiful bulletpoint.
+### My skills, loosely ranked, in beautiful bullet-point.
 - Programming
 - - Java, JavaScript, Lua
 - Graphic design
 - 3D Modeling (Onshape, Blockbench & Roblox Studio, still figuring out Blender)
-- Pixel Art
+- Pixel Art ![antlers-16](https://github.com/user-attachments/assets/6af7c00e-d3df-4954-8216-9c93417492ad)
