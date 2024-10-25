@@ -4,11 +4,11 @@
 # Hello, I am "Emory"
 *A multi-dimensional creator currently focusing on Minecraft.*
 </div>
+
 Particularly, increasing its emergent properties, with holistic analysis & strategic implementation.
 
-
 This mostly serves as a way for me to learn, understand, & apply various skillsets for the future.
-I hope to be a Robotic Engineer, designing & building machines to further automate manufactory. 
+I hope to be a Robotic Engineer, designing & building machines to further automate manufactory...
 
 _I shall create for humans what cars were for horses._
 
