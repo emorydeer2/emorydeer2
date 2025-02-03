@@ -16,5 +16,12 @@ _I shall create for humans what cars were for horses._
 - Programming
 - - Java, JavaScript, Lua
 - Graphic design
-- 3D Modeling (Onshape, Blockbench, & Roblox Studio, still figuring out Blender)
+- 3D Modeling
+- - Onshape, Blockbench, & Roblox Studio
 - Pixel Art ![antlers-16](https://github.com/user-attachments/assets/6af7c00e-d3df-4954-8216-9c93417492ad)
+
+### Learning:
+
+- C++, Python, Lua & JavaScript
+- Git, by reading the official textbook (the relevant parts, atleast)
+- Blender
