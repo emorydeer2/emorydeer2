@@ -10,7 +10,7 @@ Particularly, increasing its emergent properties, with holistic analysis & strat
 This mostly serves as a way for me to learn, understand, & apply various skillsets for the future.
 I hope to be a Robotic Engineer, designing & building machines to further automate manufactory...
 
-_I shall create for humans what cars were for horses._
+_I shall create for humans what cars were for horses, hopefully ethically!_
 
 ### My skills, loosely ranked, in beautiful bullet-point.
 - Programming
