@@ -22,6 +22,6 @@ _I shall create for humans what cars were for horses._
 
 ### Learning:
 
-- C++, Python, Lua & JavaScript
+- Python, C++, Lua & JavaScript
 - Git, by reading the official textbook (the relevant parts, atleast)
 - Blender
