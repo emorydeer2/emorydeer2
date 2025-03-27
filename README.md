@@ -14,7 +14,7 @@ _I shall create for humans what cars were for horses._
 
 ### My skills, loosely ranked, in beautiful bullet-point.
 - Programming
-- - Java, JavaScript, Lua
+- - Java, JavaScript
 - Graphic design
 - 3D Modeling
 - - Onshape, Blockbench, & Roblox Studio
