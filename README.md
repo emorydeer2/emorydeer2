@@ -19,6 +19,7 @@ _I shall create for humans what cars were for horses, hopefully ethically!_
 - 3D Modeling
 - - Onshape, Blockbench, & Roblox Studio
 - Pixel Art 
+- Google Sheets formula & formatting
 
 ### Learning:
 
