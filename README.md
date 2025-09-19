@@ -10,18 +10,18 @@ Particularly, increasing its emergent properties, with holistic analysis & strat
 This mostly serves as a way for me to learn, understand, & apply various skillsets for the future.
 I hope to be a Robotic Engineer, designing & building machines to further automate manufactory...
 
-_I shall create for humans what cars were for horses, hopefully ethically!_
+*I shall create for humans what cars were for horses, hopefully ethically!*
 
 ### My skills, loosely ranked, in beautiful bullet-point.
-- Programming
-- - Java, JavaScript
-- Graphic design
-- 3D Modeling
-- - Onshape, Blockbench, & Roblox Studio
-- Pixel Art 
-- Google Sheets formula & formatting
+-	Programming
+	-	Java, JavaScript
+	-	Google Sheets formula & formatting
+-	Graphic design
+-	3D Modeling
+	-	Onshape, Blockbench, & Roblox Studio
+-	Pixel Art 
 
-### Learning:
+### Learning, sorted by priority:
 
 - Python, C++, Lua & JavaScript
 - Git, by reading the official textbook (the relevant parts, atleast)
